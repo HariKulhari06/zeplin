@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.harikulhari06.zeplin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.harikulhari06.zeplin.MyBundle
 
 class MyApplicationService {
 
